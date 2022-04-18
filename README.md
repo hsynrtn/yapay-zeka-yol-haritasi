@@ -5,11 +5,14 @@
 ## Table of Contents
 
  - [Matematik](#matematik)
- - [Istatistik](#İstatistik)
+ - [İstatistik](#istatistik)
  - [Olasılık](#olasılık)
  - [Programlama Dili](#programlama-dili)
 
 ## Istatistik
+ - [Awesome Machine Learning](#awesome-machine-learning)
+
+## Matematik
  - [Awesome Machine Learning](#awesome-machine-learning)
 
 ## Awesome Machine Learning
