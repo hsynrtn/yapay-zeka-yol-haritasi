@@ -5,7 +5,7 @@
 ## Table of Contents
 
  - [Matematik](#matematik)
- - [İstatistik](#istatistik)
+ - [Istatistik](#istatistik)
  - [Olasılık](#olasılık)
  - [Programlama Dili](#programlama-dili)
 
