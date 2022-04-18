@@ -3,7 +3,7 @@
 ## Adımlar
 
  - [Matematik](#matematik)
-   - [Test](#test)
+   - [Test](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md)
  - [Istatistik](#istatistik)
  - [Olasılık](#olasılık)
  - [Lineer Cebir](#lineer-cebir)
