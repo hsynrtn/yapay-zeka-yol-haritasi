@@ -8,7 +8,7 @@
  - [Lineer Cebir](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md)
  - [Algoritma ve Programlama](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/algoritma-ve-programlama.md)
  - [Programlama Dili]
-   -[Python](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md)
+        - [Python](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md)
 
 ## Matematik
  - [Awesome Machine Learning](#awesome-machine-learning)
