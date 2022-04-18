@@ -9,6 +9,7 @@
  * [Algoritma ve Programlama](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/algoritma-ve-programlama.md)
  * Programlama Dili
       * [Python](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md)
+ * [Veri Yapıları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md)
   
 
 ## Matematik
