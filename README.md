@@ -15,18 +15,3 @@
  * [Derin Öğrenme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md)
  * [Görüntü İşleme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md)
  * [Bilgisayarlı Görü](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md)
-## Matematik
- - [Awesome Machine Learning](#awesome-machine-learning)
- 
- 
-### Test
-## Istatistik
- - [Awesome Machine Learning](#awesome-machine-learning)
-
-## Lineer Cebir
-
-## Olasılık
-
-## Awesome Machine Learning
-
-
