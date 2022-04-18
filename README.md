@@ -21,7 +21,7 @@ For a list people in computer vision listed with their academic genealogy, pleas
  - [Songs](#songs)
 
 ## Awesome Lists
- - [Awesome Machine Learning](#test)
+ - [Awesome Machine Learning](#[awesome-machine-learning)
 
 
 ## Awesome Machine Learning
