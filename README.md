@@ -1,5 +1,5 @@
 - [Systems](#systems)
-- [Programming Languages / Compilers](#programming-languages--compilers)
+- [Programming Languages / Compilers](#program)
 - [Algorithms](#algorithms)
 - [CS Theory](#cs-theory)
 - [Introduction to CS](#introduction-to-cs)
@@ -17,3 +17,6 @@
 	- [Assignments](http://web.stanford.edu/class/cs107/assignments.html)
 
 ### Programming Languages / Compilers
+
+
+### Algorithms
