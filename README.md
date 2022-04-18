@@ -1,8 +1,6 @@
 # Yapay Zeka Yol Haritası
 
-## Contributing
-
-## Table of Contents
+## Adımlar
 
  - [Matematik](#matematik)
  - [Istatistik](#istatistik)
