@@ -19,7 +19,7 @@
 
 ## Lineer Cebir
 
-
+## Olasılık
 
 ## Awesome Machine Learning
 
