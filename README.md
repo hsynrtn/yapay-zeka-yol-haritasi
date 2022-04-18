@@ -11,7 +11,10 @@
  * [Veri Yapıları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md)
  * [Veri Bilimi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md)
  * [Veri Görselleştirme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-gorsellestirme.md)
-
+ * [Makine Öğrenmesi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md)
+ * [Derin Öğrenme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md)
+ * [Görüntü İşleme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md)
+ * [Bilgisayarlı Görü](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md)
 ## Matematik
  - [Awesome Machine Learning](#awesome-machine-learning)
  
