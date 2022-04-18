@@ -7,13 +7,19 @@
  - [Matematik](#matematik)
  - [Istatistik](#istatistik)
  - [Olasılık](#olasılık)
+ - [Lineer Cebir](#lineer-cebir)
  - [Programlama Dili](#programlama-dili)
 
-## Istatistik
- - [Awesome Machine Learning](#awesome-machine-learning)
 
 ## Matematik
  - [Awesome Machine Learning](#awesome-machine-learning)
+ - 
+## Istatistik
+ - [Awesome Machine Learning](#awesome-machine-learning)
+
+## Lineer Cebir
+
+
 
 ## Awesome Machine Learning
 
