@@ -3,8 +3,8 @@
 ## Adımlar
 
  - [Matematik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md)
- - [Istatistik](#istatistik)
- - [Olasılık](#olasılık)
+ - [İstatistik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md)
+ - [Olasılık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md)
  - [Lineer Cebir](#lineer-cebir)
  - [Programlama Dili](#programlama-dili)
 
