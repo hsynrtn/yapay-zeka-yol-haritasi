@@ -3,7 +3,7 @@
 ## Adımlar
 
  - [Matematik](#matematik)
-   [Test](#test)
+   - [Test](#test)
  - [Istatistik](#istatistik)
  - [Olasılık](#olasılık)
  - [Lineer Cebir](#lineer-cebir)
