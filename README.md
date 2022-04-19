@@ -2,9 +2,14 @@
 
 ## Adımlar
 
- * [Matematik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Math)
- * [İstatistik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md) (Statistics)
+ * [Matematik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Math)  
  * [Olasılık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md) (Probability)
+     * [Permutasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Permutation)
+     * [Kombinasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Combination)   
+     * [Kesişim,Birleşim ve Tamamlayıcı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Intersection, Unions and Complements)
+     * [Şartlı olasılık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Conditional Probability)
+ * [İstatistik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md) (Statistics)
+
  * [Lineer Cebir](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md) (Linear Algebra)
  * [Algoritma ve Programlama](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/algoritma-ve-programlama.md)(Algorithm and Programming)
  * [Python](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md) 
