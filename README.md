@@ -2,7 +2,7 @@
 
 ## Adımlar
 
- * [Matematik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md)
+ * [Matematik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Math)
  * [İstatistik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md)
  * [Olasılık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md)
  * [Lineer Cebir](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md)
