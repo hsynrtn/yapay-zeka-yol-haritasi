@@ -13,6 +13,7 @@
  * [Veri Görselleştirme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-gorsellestirme.md)
  * [Makine Öğrenmesi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md)
  * [Derin Öğrenme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md)
+      * [Yapay Sinir Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md)
  * [Görüntü İşleme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md)
  * [Bilgisayarlı Görü](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md)
  * [Doğal Dil İşleme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/dogal-dil-isleme.md)
