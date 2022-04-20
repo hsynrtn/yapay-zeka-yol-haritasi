@@ -94,6 +94,8 @@
     - 
     * [K-Means Clustering](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (K-Means Clustering)
     * [Hierarchical Clustering](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Hierarchical Clustering)
+    * [DBSCAN](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (DBSCAN)
+    * [HDBSCAN](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (HDBSCAN)
     - 2.2 Dimensionality Reduction
     * [Principal Component Analysis](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Principal Component Analysis -PCA)
     
