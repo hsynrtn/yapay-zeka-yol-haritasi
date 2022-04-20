@@ -70,7 +70,7 @@
  * [Makine Öğrenmesi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Machine Learning)
 
     -1 Supervised Learning 
-    -1.1 Reqression
+    - 1.1 Reqression
     
     * [Simple Linear Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Simple Linear Regression)
     * [Multiple Linear Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Multiple Linear Regression)
