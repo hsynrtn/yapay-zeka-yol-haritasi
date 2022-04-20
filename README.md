@@ -68,6 +68,15 @@
      * [Seaborn](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-gorsellestirme.md) (Seaborn)
      * [Plotly](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-gorsellestirme.md) (Plotly)  
  * [Makine Öğrenmesi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Machine Learning)
+    - Reqression
+    * [Simple Linear Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Simple Linear Regression)
+    * [Multiple Linear Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Multiple Linear Regression)
+    * [Polynomial Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Polynomial Regression)
+    * [Support Vector Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Support Vector Regression)
+    * [Decision Tree Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Decision Tree Regression)
+    * [Random Forest Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Random Forest Regression)
+    - Classification
+    * [Random Forest Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Random Forest Regression)
  * [Derin Öğrenme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Deep Learning)
       * [Yapay Sinir Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Artifical Neural Networks -ANN)
       * [Evrişimli Sinir Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Convolutional Neural Networks -CNN)
