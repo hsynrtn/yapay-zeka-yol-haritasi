@@ -68,19 +68,40 @@
      * [Seaborn](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-gorsellestirme.md) (Seaborn)
      * [Plotly](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-gorsellestirme.md) (Plotly)  
  * [Makine Öğrenmesi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Machine Learning)
-    - Reqression
+
+    -1 Supervised Learning 
+    - 1.1 Reqression
     * [Simple Linear Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Simple Linear Regression)
     * [Multiple Linear Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Multiple Linear Regression)
     * [Polynomial Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Polynomial Regression)
     * [Support Vector Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Support Vector Regression)
     * [Decision Tree Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Decision Tree Regression)
     * [Random Forest Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Random Forest Regression)
-    - Classification
-    * [Random Forest Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Random Forest Regression)
+    -1.2 Classification
+    * [Logistic Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Logistic Regression)
+    * [K-Nearest Neighbors](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (K-Nearest Neighbors -KNN)
+    * [Support Vector Machine](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Support Vector Machine -SVM)
+    * [Kernel SVM](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Kernel SVM)
+    * [Navie Bayes](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Navie Bayes)
+    * [Decision Tree Classification](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Decision Tree Classification)
+    * [Random Forest Classification](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Random Forest Classification)
+    -2 Unsupervised Learning
+    - 2.1 Clustering
+    * [K-Means Clustering](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (K-Means Clustering)
+    * [Hierarchical Clustering](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Hierarchical Clustering)
+    - 2.2 Dimensionality Reduction
+    * [Principal Component Analysis](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Principal Component Analysis -PCA)
+    -3 Ensemble Learning
+    * [Boosting](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Boosting)
+    * [Bagging](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Bagging)
+    * [Stacking](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Stacking)
+    
+    
  * [Derin Öğrenme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Deep Learning)
       * [Yapay Sinir Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Artifical Neural Networks -ANN)
       * [Evrişimli Sinir Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Convolutional Neural Networks -CNN)
       * [Özyinelemeli Sinir Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Recurrent Neural Networks -RNN)
+      * [Otomatik Kodlayıcılar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Autoencoders)
       * [Kapsül Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Capsule Networks)
       * [Üretici Çekişmeli Ağlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Generative Adversarial Networks -GAN)    
       * [Kendini Düzenleyen Haritalar ](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Self Organizing Maps -SOMs)
@@ -91,3 +112,4 @@
  * [Bilgisayarlı Görü](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (Computer Vision)
  * [Doğal Dil İşleme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/dogal-dil-isleme.md) (Natural Language Processing -NLP)
  * [Pekiştirmeli Öğrenme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/pekistirmeli-ogrenme.md) (Reinforcement Learning)
+   * [Q-Learning](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/pekistirmeli-ogrenme.md) (Q-Learning)  
