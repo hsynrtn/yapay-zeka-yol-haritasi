@@ -71,14 +71,14 @@
 
     -1 Supervised Learning 
     - 1.1 Reqression
-    - 
+    
     * [Simple Linear Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Simple Linear Regression)
     * [Multiple Linear Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Multiple Linear Regression)
     * [Polynomial Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Polynomial Regression)
     * [Support Vector Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Support Vector Regression)
     * [Decision Tree Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Decision Tree Regression)
     * [Random Forest Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Random Forest Regression)
-    * 
+    
     -1.2 Classification
     
     * [Logistic Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Logistic Regression)
@@ -88,7 +88,7 @@
     * [Navie Bayes](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Navie Bayes)
     * [Decision Tree Classification](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Decision Tree Classification)
     * [Random Forest Classification](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Random Forest Classification)
-    * 
+    
     -2 Unsupervised Learning
     - 2.1 Clustering
     - 
