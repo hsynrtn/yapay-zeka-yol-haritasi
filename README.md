@@ -27,6 +27,7 @@
     * [Hipotez Testi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md) (Hypothesis Testing)
     * [Varyans Analizi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md) (Analysis of Variance -ANOVA)
     * [Korelasyon Analizi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md) (Correlation Analysis )
+    * [Büyük Sayılar Kanunu](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md) (Law of Large Numbers )   
     * [Ki-Kare Analizi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md) (Chi-Square Analysis)
     * [Gerileme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md) (Regression)
  * [Lineer Cebir](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md) (Linear Algebra)
