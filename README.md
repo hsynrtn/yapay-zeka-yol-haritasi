@@ -91,6 +91,7 @@
     * [Hierarchical Clustering](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Hierarchical Clustering)
     - 2.2 Dimensionality Reduction
     * [Principal Component Analysis](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Principal Component Analysis -PCA)
+    
     -3 Ensemble Learning
     * [Boosting](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Boosting)
     * [Bagging](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Bagging)
