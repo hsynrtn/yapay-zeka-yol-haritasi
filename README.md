@@ -129,7 +129,7 @@
     * [Scikit-image](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Scikit-image)
     * [Pillow](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Pillow)
  * [Bilgisayarlı Görü](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (Computer Vision)
-      * [Cuda-CuDNN](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (Keras)
+      * [Cuda-CuDNN](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (Cuda-CuDNN)
       * [Keras](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (Keras)
       * [Tensorflow](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (Tensorflow)
       * [Pytorch](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (Pytorch)
