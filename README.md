@@ -136,6 +136,7 @@
       * [FastAi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (FastAi)     
       * [Tanıma,Sınıflandırma,Tespit,Segmentasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (Recognition,Classification,Detection,Segmentation) 
       * [Veri Toplama,Etiketleme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (Data Collection, Labeling)
+      * [LabelImg,Roboflow,Makesense](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (LabelImg,Roboflow,Makesense)      
       * [Fast R-CNN](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (Fast R-CNN)
       * [Faster R-CNN](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (Faster R-CNN)
       * [Mask R-CNN](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (Mask R-CNN)
