@@ -178,7 +178,7 @@
     * [Elastik Search](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/buyuk-veri.md) (Elastik Search)
     * [Apache Spark](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/buyuk-veri.md) (Apache Spark)
     * [Apache Kafka](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/buyuk-veri.md) (Apache Kafka)
-    * 
+     
  * [Dağıtım](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/dagıtım.md) (Deployment)
     * [Flask](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/dagıtım.md) (Flask)
     * [FastApi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/dagıtım.md) (FastApi)
