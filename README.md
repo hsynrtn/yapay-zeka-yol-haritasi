@@ -80,13 +80,13 @@
         * [Random Forest Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Random Forest Regression)
     
         * -Classification    
-        * [Logistic Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Logistic Regression)
-        * [K-Nearest Neighbors](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (K-Nearest Neighbors -KNN)
-        * [Support Vector Machine](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Support Vector Machine -SVM)
-        * [Kernel SVM](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Kernel SVM)
-        * [Navie Bayes](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Navie Bayes)
-        * [Decision Tree Classification](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Decision Tree Classification)
-        * [Random Forest Classification](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Random Forest Classification)
+            * [Logistic Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Logistic Regression)
+            * [K-Nearest Neighbors](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (K-Nearest Neighbors -KNN)
+            * [Support Vector Machine](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Support Vector Machine -SVM)
+            * [Kernel SVM](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Kernel SVM)
+            * [Navie Bayes](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Navie Bayes)
+            * [Decision Tree Classification](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Decision Tree Classification)
+            * [Random Forest Classification](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Random Forest Classification)
     
     * 11-2 Unsupervised Learning
         * -Clustering     
