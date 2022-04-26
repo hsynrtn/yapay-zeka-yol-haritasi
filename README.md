@@ -21,7 +21,7 @@
      * [Poisson Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#poisson-dagılımı) (Poisson Distribution)
  * [3. Istatistik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md) (Statistics)
     * [Orneklem](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#orneklem) (Sampling)
-    * [Merkezi Egilim Olculeri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#merkezi-egilim-olduleri) (Measures of Central Tendency)
+    * [Merkezi Egilim Olculeri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#merkezi-egilim-olculeri) (Measures of Central Tendency)
         * [Medyan](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#merkezi-egilim-olduleri) (Median)
         * [Mod](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#merkezi-egilim-olduleri) (Mod)
     * [Dagılım Olculeri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#dagılım-olculeri) (Dispersion Measures)
