@@ -10,26 +10,8 @@
 ### Moduler Aritmetik
 
 ### Mantıksal Operatorler
-#a
-#a
-#a
-#a
-#a
-#a
-#a
-#a#a
-#a
-#a#a
-#a
-#a
-#a
-#a
-#a
 
-#a
-
-
-* Ayrık Matematik
+### Ayrık Matematik
 
 
 
