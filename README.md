@@ -4,7 +4,7 @@
 
  * [1. Matematik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Mathematics)  
      * [Basit Esitsizlikler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#basit-esitsizlikler) (Simple Inequalities )
-     * [Mutlak Değer](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Absolute Value)
+     * [Mutlak Değer](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#mutlak-deger) (Absolute Value)
      * [Fonksiyonlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Functions)
      * [Moduler Aritmetik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Modular Arithmetic)
      * [Mantıksal Operatörler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Logical Operators)
