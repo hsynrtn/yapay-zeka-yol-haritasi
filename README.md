@@ -12,7 +12,7 @@
  * [2. Olasılık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md) (Probability)
      * [Permutasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#permutasyon) (Permutation)
      * [Kombinasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#kombinasyon) (Combination)   
-     * [Kesisim,Birlesim ve Tamamlayıcı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#kesisim-birlesim-ve-tamamlayıcı) (Intersection, Unions and Complements)
+     * [Kesisim,Birlesim ve Tamamlayıcı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#kesisim--birlesim-ve-tamamlayıcı) (Intersection, Unions and Complements)
      * [sartlı olasılık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md) (Conditional Probability)
      * [Bayes teoremi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md) (Bayes Theorem)
      * [Olasılık Dağılımlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md) (Probability Distributions)
