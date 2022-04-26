@@ -7,9 +7,9 @@
 
 ### Fonksiyonlar
 
-###Moduler Aritmetik
+### Moduler Aritmetik
 
-###Mantıksal Operatorler
+### Mantıksal Operatorler
  
  
 
