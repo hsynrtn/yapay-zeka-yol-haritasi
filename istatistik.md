@@ -1,45 +1,10 @@
 
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-# İstatistik
-
-
-
 ### Orneklem
 
 ### Merkezi Egilim Olculeri
 
   * Medyan (Median)
-  *Mod (Mod)
+  * Mod (Mod)
 ### Dagılım Olculeri
   * Değisim Aralığı (Range of Change)
   * Standart Sapma (Standard Deviation)
