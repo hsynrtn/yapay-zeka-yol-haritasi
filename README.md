@@ -7,7 +7,7 @@
      * [Mutlak Değer](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#mutlak-deger) (Absolute Value)
      * [Fonksiyonlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#fonksiyonlar) (Functions)
      * [Moduler Aritmetik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#moduler-aritmetik) (Modular Arithmetic)
-     * [Mantıksal Operatörler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#mantiksal-operatorler) (Logical Operators)
+     * [Mantıksal Operatörler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#mantıksal-operatorler) (Logical Operators)
      * [Ayrık Matematik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Discrete Mathematics)
  * [2. Olasılık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md) (Probability)
      * [Permutasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Permutation)
