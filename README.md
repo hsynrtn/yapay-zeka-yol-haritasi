@@ -18,7 +18,7 @@
      * [Olasılık Dagılımlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#olasılık-dagılımlar) (Probability Distributions)
      * [Bernoulli Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#bernoulli-dagılımı) (Bernoulli Distribution)
      * [Binom Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#binom-dagılımı) (Binomial Distribution)
-     * [Poisson Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#poisson-dagılımlı) (Poisson Distribution)
+     * [Poisson Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#poisson-dagılımı) (Poisson Distribution)
  * [3. Istatistik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md) (Statistics)
     * [Örneklem](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md) (Sampling)
     * [Merkezi Eğilim Ölçüleri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md) (Measures of Central Tendency)
