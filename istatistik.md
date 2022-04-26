@@ -34,21 +34,21 @@
 
 
 
-### Orneklem (Sampling)
+### Orneklem
 
-### Merkezi Egilim Olculeri (Measures of Central Tendency)
+### Merkezi Egilim Olculeri
 
   * Medyan (Median)
   *Mod (Mod)
-### Dagılım Olculeri (Dispersion Measures)
+### Dagılım Olculeri
   * Değisim Aralığı (Range of Change)
   * Standart Sapma (Standard Deviation)
   * Varyans (Variance)
   * Çarpıklık (Distortion)
   * Basıklık (Kurtosis)
-### Hipotez Testi (Hypothesis Testing)
-### Varyans Analizi (Analysis of Variance -ANOVA)
-### Korelasyon Analizi (Correlation Analysis )
-### Buyuk Sayılar Kanunu (Law of Large Numbers )
-### Ki Kare Analizi (Chi-Square Analysis)
-### Gerileme (Regression)
+### Hipotez Testi
+### Varyans Analizi
+### Korelasyon Analizi
+### Buyuk Sayılar Kanunu
+### Ki Kare Analizi
+### Gerileme
