@@ -7,6 +7,17 @@
   * [Mantıksal Operatörler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Logical Operators)
   * [Ayrık Matematik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Discrete Mathematics)
 
+### tt
+ 
+  * [Ayrık Matematik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Discrete Mathematics)
+
+### tee
+ 
+  * [Ayrık Matematik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Discrete Mathematics)
+
+### ets
+ 
+  * [Ayrık Matematik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Discrete Mathematics)
 
 ### Basit Esitsizlikler
  
