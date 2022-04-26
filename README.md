@@ -10,7 +10,7 @@
      * [Mantıksal Operatörler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#mantıksal-operatorler) (Logical Operators)
      * [Ayrık Matematik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#ayrık-matematik) (Discrete Mathematics)
  * [2. Olasılık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md) (Probability)
-     * [Permutasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Permutation)
+     * [Permutasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#permutasyon) (Permutation)
      * [Kombinasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Combination)   
      * [Kesisim,Birlesim ve Tamamlayıcı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Intersection, Unions and Complements)
      * [sartlı olasılık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Conditional Probability)
