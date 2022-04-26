@@ -1,5 +1,38 @@
 
 # İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+# İstatistik
+
+
 
 ### Orneklem (Sampling)
 
