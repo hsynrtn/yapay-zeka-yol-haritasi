@@ -40,4 +40,5 @@
 ## test
 ## test
 ### Permutasyon
+### Kombinasyon
 ### Kesisim,Birlesim ve Tamamlayıcı
