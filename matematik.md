@@ -1,19 +1,15 @@
   ## Matematik (Mathematics)
 
 
-
-### Basit Esitsizlikler### Basit Esitsizlikler
-### Basit Esitsizlikler### Basit Esitsizlikler
-### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler
-### Basit Esitsizlikler### Basit Esitsizlikler
-### Basit Esitsizlikler### Basit Esitsizlikler
-### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Ba
-### Basit Esitsizlikler### Basit Esitsizlikler
-### Basit Esitsizlikler### Basit Esitsizlikler
-### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Basit Esitsizlikler### Ba
+### Basit Esitsizlikler
 
 ### Mutlak Deger
 
+### Fonksiyonlar
+
+###Moduler Aritmetik
+
+###Mantıksal Operatorler
  
  
 
