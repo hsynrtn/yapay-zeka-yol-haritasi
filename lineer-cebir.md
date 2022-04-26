@@ -1,1 +1,6 @@
 
+# Lineear Cebir
+
+### Matris
+
+### Determinant
