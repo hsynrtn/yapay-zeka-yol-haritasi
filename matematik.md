@@ -1,4 +1,4 @@
-* Matematik (Mathematics)
+# Matematik (Mathematics)
 
 
 ### Basit Esitsizlikler
