@@ -45,7 +45,7 @@
      * [Nesneye Yönelik Programlama](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md#nesneye-yönelik-programlama) (Object Oriented Programming)
      * [Kütüphaneler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md#kütüphaneler) (Libraries)
      * [Dosya İşlemleri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md#dosya-islemleri) (File Operations)
-     * [İş Parçacıkları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md-is-parcacıkları) (Threads)
+     * [İş Parçacıkları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md#is-parcacıkları) (Threads)
  * [7. Veri Yapıları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md) (Data Structures)
     * [Diziler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md) (Arrays)
     * [Yığınlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md) (Stacks)
