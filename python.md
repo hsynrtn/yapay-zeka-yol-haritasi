@@ -38,4 +38,4 @@
 ### Nesneye Yönelik Programlama
 ### Kütüphaneler
 ### Dosya Islemleri
-### İs Parcacıkları
+### Is Parcacıkları
