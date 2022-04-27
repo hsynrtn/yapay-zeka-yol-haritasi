@@ -8,4 +8,4 @@
 ### Sıralama Algoritmaları
 ### Agac Teorisi
 ### Grafik Teorisi
-### Rekürsif ve Iteratif Foknsiyonlar
+### Rekürsif ve Iteratif Fonksiyonlar
