@@ -4,5 +4,5 @@
 ### Temel Python
 ### Nesneye Yönelik Programlama
 ### Kütüphaneler
-### Dosya İşlemleri
+### Dosya İslemleri
 ### İs Parcacıkları
