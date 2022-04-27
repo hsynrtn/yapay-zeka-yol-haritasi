@@ -37,5 +37,5 @@
 ### Temel Python
 ### Nesneye Yönelik Programlama
 ### Kütüphaneler
-### Dosya İslemleri
+### Dosya Islemleri
 ### İs Parcacıkları
