@@ -1,7 +1,7 @@
 
 ## Python 
 
-### Temel Python]
+### Temel Python
 ### Nesneye Yönelik Programlama
 ### Kütüphaneler
 ### Dosya İşlemleri
