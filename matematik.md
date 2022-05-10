@@ -4,18 +4,26 @@
 ### Basit Esitsizlikler 
 (Simple Inequalities)
 
+
+
 ### Mutlak Deger
+(Absolute Value)
 
 ### Fonksiyonlar
+(Functions)
 
 ### Moduler Aritmetik
+(Modular Arithmetic)
 
 ### Mantıksal Operatorler
-
-### Ayrık Matematik
+(Logical Operators)
 
 ### Cok Degiskenli Hesap 
-(multivariate calculus)
+(Multivariate Calculus)
+
+### Ayrık Matematik
+(Discrete Mathematics)
+
 
 
  
