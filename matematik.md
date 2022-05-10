@@ -13,6 +13,7 @@
 
 ### Ayrık Matematik
 
+### Cok Degiskenli Hesap
 
 
  
