@@ -1,7 +1,7 @@
 
 ### Orneklem
 (Sampling)
-
+##
 ### Merkezi Egilim Olculeri
 (Measures of Central Tendency)
 
