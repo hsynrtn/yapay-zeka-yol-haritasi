@@ -1,5 +1,5 @@
 
-## Olasılık (Probability)
+# Olasılık (Probability)
 
 ### Permutasyon
  (Permutation)
