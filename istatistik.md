@@ -1,4 +1,4 @@
-#Istatistik (Statistic)
+# Istatistik (Statistic)
 
 ### Orneklem
 (Sampling)
