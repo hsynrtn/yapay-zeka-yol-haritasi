@@ -1,4 +1,5 @@
-##
+#Istatistik (Statistic)
+
 ### Orneklem
 (Sampling)
 
@@ -40,3 +41,6 @@
 ##
 ### Gerileme
 (Regression)
+
+
+##
