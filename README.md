@@ -10,6 +10,7 @@
      * [Mantıksal Operatörler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#mantıksal-operatorler) (Logical Operators)
      * [Çok Değişkenli Hesap](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#cok-degiskenli-hesap) (Multivariate Calculus)
      * [Ayrık Matematik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#ayrık-matematik) (Discrete Mathematics)
+##
  * [2. Olasılık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md) (Probability)
      * [Permutasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#permutasyon) (Permutation)
      * [Kombinasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#kombinasyon) (Combination)   
@@ -20,6 +21,7 @@
      * [Bernoulli Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#bernoulli-dagılımı) (Bernoulli Distribution)
      * [Binom Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#binom-dagılımı) (Binomial Distribution)
      * [Poisson Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#poisson-dagılımı) (Poisson Distribution)
+##
  * [3. Istatistik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md) (Statistics)
     * [Orneklem](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#orneklem) (Sampling)
     * [Merkezi Egilim Olculeri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#merkezi-egilim-olculeri) (Measures of Central Tendency)
@@ -40,13 +42,16 @@
  * [4. Lineer Cebir](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md) (Linear Algebra)
     * [Matris](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md#matris) (Matrix)
     * [Determinant](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md#determinant) (Determinant)
+##
  * [5. Algoritma ve Programlama](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/algoritma-ve-programlama.md)(Algorithm and Programming)
+##
  * [6. Python](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md) 
      * [Temel Python](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md#temel-python) (Python Basics)
      * [Nesneye Yönelik Programlama](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md#nesneye-yönelik-programlama) (Object Oriented Programming)
      * [Kütüphaneler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md#kütüphaneler) (Libraries)
      * [Dosya İşlemleri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md#dosya-islemleri) (File Operations)
      * [İş Parçacıkları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md#is-parcacıkları) (Threads)
+##
  * [7. Veri Yapıları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md) (Data Structures)
     * [Diziler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#diziler) (Arrays)
     * [Yığınlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#yıgınlar) (Stacks)
@@ -57,18 +62,26 @@
     * [Ağaç Teorisi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#agac-teorisi) (Tree Theory)
     * [Grafik Teorisi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#grafik-teorisi) (Graph Theory)
     * [Rekürsif ve Iteratif Fonksiyonlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#rekürsif-ve-iteratif-fonksiyonlar) (Recursive and Iterative Functions)
+
+##
  * [8. Web Kazıma](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/web-kazima.md) (Web Scraping)    
     * [Selenyum](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/web-kazima.md) (Selenium)
     * [İstekler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/web-kazima.md) (Requests)
     * [Sıyrık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/web-kazima.md) (Scrapy)
+
+##
  * [9. Veri Bilimi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md) (Data Science)
     * [Numpy](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md) (Numpy)
     * [Pandas](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md) (Pandas)
     * [Kaggle](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md) (Kaggle)    
+
+##
  * [10. Veri Görselleştirme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-gorsellestirme.md) (Data Visualization)
      * [Matplotlib](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-gorsellestirme.md) (Matplotlib)
      * [Seaborn](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-gorsellestirme.md) (Seaborn)
      * [Plotly](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-gorsellestirme.md) (Plotly)  
+
+##
  * [11. Makine Öğrenmesi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Machine Learning)
 
     * 11-1 Supervised Learning
@@ -102,7 +115,7 @@
         * [Boosting](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Boosting)
         * [Bagging](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Bagging)
         * [Stacking](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Stacking)    
-
+##
  * [12. Derin Öğrenme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Deep Learning) 
       * [Yapay Sinir Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Artifical Neural Networks -ANN)
       * [Evrişimli Sinir Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Convolutional Neural Networks -CNN)
@@ -114,8 +127,11 @@
       * [Boltzman Makineleri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Boltzmann Machines)
       * [Derin Artık Ağlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Deep Residual Networks -ResNets)
       * [Transfer Öğrenimi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Transfer Learning)
-      
-      
+
+##  
+    
+    
+    
  * [13. Görüntü İşleme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Image Processing)
     * [OpenCV](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (OpenCV)
     * [Temel Resim İşlemleri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Basic Image Operations)
@@ -126,6 +142,8 @@
     * [Nesne Takibi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Object Tracking)
     * [Scikit-image](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Scikit-image)
     * [Pillow](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Pillow)
+
+##
  * [14. Bilgisayarlı Görü](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (Computer Vision)
       * [Cuda-CuDNN](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (Cuda-CuDNN)
       * [Keras](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (Keras)
@@ -152,6 +170,8 @@
       * [OpenPose](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (OpenPose)
       * [TensorRT](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (TensorRT)
       * [Tensorflow Lite](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (Tensorflow Lite)
+
+##
         
  * [15. Doğal Dil İşleme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/dogal-dil-isleme.md) (Natural Language Processing -NLP)
  
@@ -161,11 +181,15 @@
      * [Sentiment Analysis](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/dogal-dil-isleme.md) (Sentiment Analysis)
      * [seq2seq](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/dogal-dil-isleme.md) (seq2seq)
      * [Image Captioning](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/dogal-dil-isleme.md) (Image Captioning)
+
+##
  * [16. Pekiştirmeli Öğrenme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/pekistirmeli-ogrenme.md) (Reinforcement Learning)
    * [Q-Learning](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/pekistirmeli-ogrenme.md) (Q-Learning) 
    * [Deep Q-Learning](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/pekistirmeli-ogrenme.md) (Deep Q-Learning -DQL)  
    * [Environment Design](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/pekistirmeli-ogrenme.md) (Environment Design)  
    * [OpenAI](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/pekistirmeli-ogrenme.md) (OpenAI) 
+
+##
  
   
  * [17. Büyük Veri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/buyuk-veri.md) (Big Data)
@@ -175,12 +199,25 @@
     * [Elastik Search](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/buyuk-veri.md) (Elastik Search)
     * [Apache Spark](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/buyuk-veri.md) (Apache Spark)
     * [Apache Kafka](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/buyuk-veri.md) (Apache Kafka)
+
+##
      
  * [18. Dağıtım](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/dagıtım.md) (Deployment)
     * [Flask](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/dagıtım.md) (Flask)
     * [FastApi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/dagıtım.md) (FastApi)
     * [Django](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/dagıtım.md) (Django) 
-    * [Docker](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/dagıtım.md) (Docker)   
-    * [Postgres](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/dagıtım.md) (Postgres) 
-    * [Linux](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/dagıtım.md) (Linux) 
+
+##
+
+    
+ * [18. Diger](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/diger.md) (Other)
+    * [Git](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/diger.md) (Git) 
+    * [SQL](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/diger.md) (SQL) 
+    * [Postgres](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/diger.md) (Postgres) 
+    * [Docker](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/diger.md) (Docker)       
+    * [Linux](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/diger.md) (Linux) 
+
+##
+    
+    
     
