@@ -1,5 +1,4 @@
-# Yapay Zeka Yol Haritası
-
+# Yapay Zeka Yol Haritası (Artifical Intelligence Roadmap)
 ## Adımlar
 
  * [1. Matematik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Mathematics)  
