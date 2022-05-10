@@ -1,7 +1,7 @@
 # Matematik (Mathematics)
 
 
-### Basit Esitsizlikler
+### Basit Esitsizlikler (Simple Inequalities)
 
 ### Mutlak Deger
 
@@ -13,7 +13,7 @@
 
 ### Ayrık Matematik
 
-### Cok Degiskenli Hesap
+### Cok Degiskenli Hesap (multivariate calculus)
 
 
  
