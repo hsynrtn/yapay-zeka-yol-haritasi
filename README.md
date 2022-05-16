@@ -85,31 +85,33 @@
  </details>
 
      
-
- 
-    
-
-##
- * [8. Web Kazıma](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/web-kazima.md) (Web Scraping)    
+ <details>
+    <summary> 8. Web Kazıma </summary>  
     * [Selenyum](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/web-kazima.md) (Selenium)
     * [İstekler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/web-kazima.md) (Requests)
     * [Sıyrık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/web-kazima.md) (Scrapy)
-
-##
- * [9. Veri Bilimi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md) (Data Science)
+   
+ </details>
+ 
+  <details>
+    <summary> 9. Veri Bilimi </summary>  
     * [Numpy](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md) (Numpy)
     * [Pandas](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md) (Pandas)
-    * [Kaggle](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md) (Kaggle)    
+    * [Kaggle](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md) (Kaggle) 
+   
+ </details>
 
-##
- * [10. Veri Görselleştirme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-gorsellestirme.md) (Data Visualization)
+
+  <details>
+    <summary> 10. Veri Görselleştirme </summary>  
      * [Matplotlib](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-gorsellestirme.md) (Matplotlib)
      * [Seaborn](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-gorsellestirme.md) (Seaborn)
      * [Plotly](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-gorsellestirme.md) (Plotly)  
-
-##
- * [11. Makine Öğrenmesi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Machine Learning)
-
+   
+ </details>
+ 
+  <details>
+    <summary> 11. Makine Öğrenmesi </summary>  
     * 11-1 Supervised Learning
         * Reqression    
             * [Simple Linear Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Simple Linear Regression)
@@ -135,8 +137,12 @@
     * 11-3 Ensemble Learning       
         * [Boosting](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Boosting)
         * [Bagging](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Bagging)
-        * [Stacking](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Stacking)    
-##
+        * [Stacking](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Stacking) 
+
+   
+ </details>
+
+
  * [12. Derin Öğrenme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Deep Learning) 
       * [Yapay Sinir Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Artifical Neural Networks -ANN)
       * [Evrişimli Sinir Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Convolutional Neural Networks -CNN)
