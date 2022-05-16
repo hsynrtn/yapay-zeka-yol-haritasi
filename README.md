@@ -46,7 +46,7 @@
     * [Buyuk Sayılar Kanunu](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#buyuk-sayılar-kanunu) (Law of Large Numbers )   
     * [Ki Kare Analizi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#ki-kare-analizi) (Chi-Square Analysis)
     * [Gerileme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#gerileme) (Regression)
-  
+  </details>
  <details>
     <summary> 4. Lineer Cebir </summary>  
         * [Matris](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md#matris) (Matrix)
