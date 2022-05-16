@@ -168,17 +168,17 @@
 </details>
 
 <details>
-    <summary> 13. Görüntü İşleme </summary> 
-  
-    * [OpenCV](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (OpenCV)
-    * [Temel Resim İşlemleri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Basic Image Operations)
-    * [Temel Video,Kamera İşlemleri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Basic Video, Camera Operations)
-    * [Filtreleme İşlemleri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Filtering Operations)
-    * [Morfolojik İşlemler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Morphological Operations)
-    * [Nesne Tanıma](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Object Recognition)
-    * [Nesne Takibi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Object Tracking)
-    * [Scikit-image](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Scikit-image)
-    * [Pillow](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Pillow)
+  <summary> 13. Görüntü İşleme </summary> 
+
+  * [OpenCV](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (OpenCV)
+  * [Temel Resim İşlemleri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Basic Image Operations)
+  * [Temel Video,Kamera İşlemleri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Basic Video, Camera Operations)
+  * [Filtreleme İşlemleri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Filtering Operations)
+  * [Morfolojik İşlemler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Morphological Operations)
+  * [Nesne Tanıma](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Object Recognition)
+  * [Nesne Takibi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Object Tracking)
+  * [Scikit-image](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Scikit-image)
+  * [Pillow](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Pillow)
 
 
 </details>
