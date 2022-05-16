@@ -32,7 +32,7 @@
 <details>
 <summary> 3. Istatistik </summary>
 
-* [Orneklem](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#orneklem) (Sampling)
+  * [Orneklem](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#orneklem) (Sampling)
   * [Merkezi Egilim Olculeri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#merkezi-egilim-olculeri) (Measures of Central Tendency)
       * [Medyan](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#merkezi-egilim-olduleri) (Median)
       * [Mod](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#merkezi-egilim-olduleri) (Mod)
