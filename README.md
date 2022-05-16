@@ -1,20 +1,19 @@
 # Yapay Zeka Yol Haritası (Artifical Intelligence Roadmap)
 ## Adımlar
-<details>
-  <summary>Matematik</summary>
+<matematik>  
   
-  * [1. Matematik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Mathematics)  
-     * [Basit Esitsizlikler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#basit-esitsizlikler) (Simple Inequalities )
-     * [Mutlak Değer](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#mutlak-deger) (Absolute Value)
-     * [Fonksiyonlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#fonksiyonlar) (Functions)
-     * [Moduler Aritmetik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#moduler-aritmetik) (Modular Arithmetic)
-     * [Mantıksal Operatörler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#mantıksal-operatorler) (Logical Operators)
-     * [Çok Değişkenli Hesap](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#cok-degiskenli-hesap) (Multivariate Calculus)
-     * [Ayrık Matematik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#ayrık-matematik) (Discrete Mathematics)
-     * [Limit](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#limit) (Limit)
-     * [Turev](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#turev) (Turev)
-     * [Integral](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#integral) (Integral)
-</details>
+ * [1. Matematik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Mathematics)  
+ * [Basit Esitsizlikler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#basit-esitsizlikler) (Simple Inequalities )
+ * [Mutlak Değer](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#mutlak-deger) (Absolute Value)
+ * [Fonksiyonlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#fonksiyonlar) (Functions)
+ * [Moduler Aritmetik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#moduler-aritmetik) (Modular Arithmetic)
+ * [Mantıksal Operatörler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#mantıksal-operatorler) (Logical Operators)
+ * [Çok Değişkenli Hesap](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#cok-degiskenli-hesap) (Multivariate Calculus)
+ * [Ayrık Matematik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#ayrık-matematik) (Discrete Mathematics)
+ * [Limit](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#limit) (Limit)
+ * [Turev](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#turev) (Turev)
+ * [Integral](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#integral) (Integral)
+</matematik>
  * [1. Matematik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md) (Mathematics)  
      * [Basit Esitsizlikler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#basit-esitsizlikler) (Simple Inequalities )
      * [Mutlak Değer](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#mutlak-deger) (Absolute Value)
