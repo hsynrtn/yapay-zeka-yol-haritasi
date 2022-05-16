@@ -14,9 +14,9 @@
  * [Turev](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#turev) (Turev)
  * [Integral](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#integral) (Integral)
 </details>
-
 ##
- * [2. Olasılık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md) (Probability)
+<details>
+  <summary> [2. Olasılık] </summary>
      * [Permutasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#permutasyon) (Permutation)
      * [Kombinasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#kombinasyon) (Combination)   
      * [Kesisim Birlesim ve Tamamlayıcı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#kesisim-birlesim-ve-tamamlayıcı) (Intersection, Unions and Complements)
@@ -26,6 +26,9 @@
      * [Bernoulli Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#bernoulli-dagılımı) (Bernoulli Distribution)
      * [Binom Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#binom-dagılımı) (Binomial Distribution)
      * [Poisson Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#poisson-dagılımı) (Poisson Distribution)
+</details>
+ 
+
 ##
  * [3. Istatistik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md) (Statistics)
     * [Orneklem](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#orneklem) (Sampling)
