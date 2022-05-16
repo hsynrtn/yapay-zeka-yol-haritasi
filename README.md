@@ -52,6 +52,7 @@
 
 <details>
   <summary> 4. Lineer Cebir </summary>  
+  
   * [Matris](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md#matris) (Matrix)
   * [Determinant](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md#determinant) (Determinant)
 </details>
@@ -59,11 +60,13 @@
  
     
 <details>
-  <summary> 5. Algoritma ve Programlama </summary>    
+  <summary> 5. Algoritma ve Programlama </summary>  
+  
 </details>
 
 <details>
   <summary> 6. Python</summary>  
+  
   * [Python Temelleri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md#temel-python) (Python Basics)
   * [Nesneye Yönelik Programlama](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md#nesneye-yönelik-programlama) (Object Oriented Programming)
    * [Kütüphaneler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md#kütüphaneler) (Libraries)
@@ -73,7 +76,8 @@
 
 
 <details>
-  <summary> 7. Veri Yapıları </summary>  
+  <summary> 7. Veri Yapıları </summary>
+  
   * [Diziler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#diziler) (Arrays)
   * [Yığınlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#yıgınlar) (Stacks)
   * [Kuyruklar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#kuyruklar) (Queues)
@@ -88,7 +92,8 @@
 
      
 <details>
-  <summary> 8. Web Kazıma </summary>  
+  <summary> 8. Web Kazıma </summary> 
+  
   * [Selenyum](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/web-kazima.md) (Selenium)
   * [İstekler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/web-kazima.md) (Requests)
   * [Sıyrık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/web-kazima.md) (Scrapy)
@@ -97,6 +102,7 @@
  
 <details>
   <summary> 9. Veri Bilimi </summary>  
+  
   * [Numpy](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md) (Numpy)
   * [Pandas](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md) (Pandas)
   * [Kaggle](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md) (Kaggle) 
@@ -105,7 +111,8 @@
 
 
 <details>
-  <summary> 10. Veri Görselleştirme </summary>  
+  <summary> 10. Veri Görselleştirme </summary> 
+  
    * [Matplotlib](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-gorsellestirme.md) (Matplotlib)
    * [Seaborn](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-gorsellestirme.md) (Seaborn)
    * [Plotly](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-gorsellestirme.md) (Plotly)  
@@ -114,6 +121,7 @@
  
 <details>
   <summary> 11. Makine Öğrenmesi </summary>  
+  
   * 11-1 Supervised Learning
       * Reqression    
           * [Simple Linear Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Simple Linear Regression)
