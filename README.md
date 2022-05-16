@@ -120,12 +120,15 @@
 </details>
  
 <details>
-  <summary> 11. Makine Öğrenmesi </summary>  
-  
-  * 11-1 Supervised Learning
+  <summary> 11. Makine Öğrenmesi </summary> 
+    <details>
+      <summary> 11-1 Supervised Learning </summary
+        
       * Reqression    
           * [Simple Linear Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Simple Linear Regression)
           * [Poisson Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Poisson Regression)
+    </details>
+  * 11-1 Supervised Learning     
 
       * Classification    
           * [Logistic Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Logistic Regression)
