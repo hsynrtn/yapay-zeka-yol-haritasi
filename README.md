@@ -17,15 +17,15 @@
 ##
 <details>
   <summary> [2. Olasılık] </summary>
-     * [Permutasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#permutasyon) (Permutation)
-     * [Kombinasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#kombinasyon) (Combination)   
-     * [Kesisim Birlesim ve Tamamlayıcı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#kesisim-birlesim-ve-tamamlayıcı) (Intersection, Unions and Complements)
-     * [Sartlı Olasılık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#sartlı-olasılık) (Conditional Probability)
-     * [Bayes Teoremi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#bayes-teoremi) (Bayes Theorem)
-     * [Olasılık Dagılımlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#olasılık-dagılımlar) (Probability Distributions)
-     * [Bernoulli Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#bernoulli-dagılımı) (Bernoulli Distribution)
-     * [Binom Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#binom-dagılımı) (Binomial Distribution)
-     * [Poisson Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#poisson-dagılımı) (Poisson Distribution)
+  * [Permutasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#permutasyon) (Permutation)
+  * [Kombinasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#kombinasyon) (Combination)   
+  * [Kesisim Birlesim ve Tamamlayıcı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#kesisim-birlesim-ve-tamamlayıcı) (Intersection, Unions and Complements)
+  * [Sartlı Olasılık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#sartlı-olasılık) (Conditional Probability)
+  * [Bayes Teoremi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#bayes-teoremi) (Bayes Theorem)
+  * [Olasılık Dagılımlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#olasılık-dagılımlar) (Probability Distributions)
+  * [Bernoulli Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#bernoulli-dagılımı) (Bernoulli Distribution)
+  * [Binom Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#binom-dagılımı) (Binomial Distribution)
+  * [Poisson Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#poisson-dagılımı) (Poisson Distribution)
 </details>
  
 
