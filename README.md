@@ -27,31 +27,32 @@
   * [Binom Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#binom-dagılımı) (Binomial Distribution)
   * [Poisson Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#poisson-dagılımı) (Poisson Distribution)
 </details>
- <details>
-  <summary> 3. Istatistik </summary>
-  
-  * [Orneklem](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#orneklem) (Sampling)
-    * [Merkezi Egilim Olculeri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#merkezi-egilim-olculeri) (Measures of Central Tendency)
-        * [Medyan](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#merkezi-egilim-olduleri) (Median)
-        * [Mod](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#merkezi-egilim-olduleri) (Mod)
-    * [Dagılım Olculeri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#dagılım-olculeri) (Dispersion Measures)
-        * [Değisim Aralığı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#dagılım-olculeri) (Range of Change)
-        * [Standart Sapma](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#dagılım-olculeri) (Standard Deviation)
-        * [Varyans](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#dagılım-olculeri) (Variance)
-        * [Çarpıklık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#dagılım-olculeri) (Distortion)
-        * [Basıklık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#dagılım-olculeri) (Kurtosis)        
-    * [Hipotez Testi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#hipotez-testi) (Hypothesis Testing)
-    * [Varyans Analizi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#varyans-analizi) (Analysis of Variance -ANOVA)
-    * [Korelasyon Analizi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#korelasyon-analizi) (Correlation Analysis )
-    * [Buyuk Sayılar Kanunu](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#buyuk-sayılar-kanunu) (Law of Large Numbers )   
-    * [Ki Kare Analizi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#ki-kare-analizi) (Chi-Square Analysis)
-    * [Gerileme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#gerileme) (Regression)
-  </details>
- <details>
-    <summary> 4. Lineer Cebir </summary>  
-        * [Matris](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md#matris) (Matrix)
-    * [Determinant](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md#determinant) (Determinant)
- </details>
+
+<details>
+<summary> 3. Istatistik </summary>
+
+* [Orneklem](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#orneklem) (Sampling)
+  * [Merkezi Egilim Olculeri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#merkezi-egilim-olculeri) (Measures of Central Tendency)
+      * [Medyan](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#merkezi-egilim-olduleri) (Median)
+      * [Mod](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#merkezi-egilim-olduleri) (Mod)
+  * [Dagılım Olculeri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#dagılım-olculeri) (Dispersion Measures)
+      * [Değisim Aralığı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#dagılım-olculeri) (Range of Change)
+      * [Standart Sapma](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#dagılım-olculeri) (Standard Deviation)
+      * [Varyans](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#dagılım-olculeri) (Variance)
+      * [Çarpıklık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#dagılım-olculeri) (Distortion)
+      * [Basıklık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#dagılım-olculeri) (Kurtosis)        
+  * [Hipotez Testi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#hipotez-testi) (Hypothesis Testing)
+  * [Varyans Analizi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#varyans-analizi) (Analysis of Variance -ANOVA)
+  * [Korelasyon Analizi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#korelasyon-analizi) (Correlation Analysis )
+  * [Buyuk Sayılar Kanunu](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#buyuk-sayılar-kanunu) (Law of Large Numbers )   
+  * [Ki Kare Analizi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#ki-kare-analizi) (Chi-Square Analysis)
+  * [Gerileme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#gerileme) (Regression)
+</details>
+<details>
+  <summary> 4. Lineer Cebir </summary>  
+      * [Matris](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md#matris) (Matrix)
+  * [Determinant](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md#determinant) (Determinant)
+</details>
 
  
     
