@@ -14,9 +14,10 @@
  * [Turev](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#turev) (Turev)
  * [Integral](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#integral) (Integral)
 </details>
-##
+
 <details>
   <summary> [2. Olasılık] </summary>
+  
   * [Permutasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#permutasyon) (Permutation)
   * [Kombinasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#kombinasyon) (Combination)   
   * [Kesisim Birlesim ve Tamamlayıcı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#kesisim-birlesim-ve-tamamlayıcı) (Intersection, Unions and Complements)
