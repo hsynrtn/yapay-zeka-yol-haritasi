@@ -9,6 +9,9 @@
      * [Mantıksal Operatörler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#mantıksal-operatorler) (Logical Operators)
      * [Çok Değişkenli Hesap](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#cok-degiskenli-hesap) (Multivariate Calculus)
      * [Ayrık Matematik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#ayrık-matematik) (Discrete Mathematics)
+     * [Limit](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#limit) (Limit)
+     * [Turev](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#turev) (Turev)
+     * [Integral](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#integral) (Integral)
 ##
  * [2. Olasılık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md) (Probability)
      * [Permutasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#permutasyon) (Permutation)
@@ -86,20 +89,15 @@
     * 11-1 Supervised Learning
         * Reqression    
             * [Simple Linear Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Simple Linear Regression)
-            * [Multiple Linear Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Multiple Linear Regression)
-            * [Polynomial Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Polynomial Regression)
-            * [Support Vector Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Support Vector Regression)
-            * [Decision Tree Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Decision Tree Regression)
-            * [Random Forest Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Random Forest Regression)
+            * [Poisson Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Poisson Regression)
     
         * Classification    
             * [Logistic Regression](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Logistic Regression)
-            * [K-Nearest Neighbors](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (K-Nearest Neighbors -KNN)
+            * [K-Nearest Neighbor](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (K-Nearest Neighbor -KNN)
             * [Support Vector Machine](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Support Vector Machine -SVM)
-            * [Kernel SVM](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Kernel SVM)
-            * [Navie Bayes](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Navie Bayes)
-            * [Decision Tree Classification](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Decision Tree Classification)
-            * [Random Forest Classification](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Random Forest Classification)
+            * [Navie Bayes Classifiers](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Navie Bayes Classifiers)
+            * [Decision Trees](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/makine-ogrenmesi.md) (Decision Trees)
+
     
     * 11-2 Unsupervised Learning
         * Clustering     
