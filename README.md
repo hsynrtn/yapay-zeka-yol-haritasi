@@ -16,8 +16,7 @@
 </details>
 
 <details>
-  <summary> 2. Olasılık </summary>
-  
+  <summary> 2. Olasılık </summary>  
   * [Permutasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#permutasyon) (Permutation)
   * [Kombinasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#kombinasyon) (Combination)   
   * [Kesisim Birlesim ve Tamamlayıcı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#kesisim-birlesim-ve-tamamlayıcı) (Intersection, Unions and Complements)
@@ -28,7 +27,7 @@
   * [Binom Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#binom-dagılımı) (Binomial Distribution)
   * [Poisson Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#poisson-dagılımı) (Poisson Distribution)
 </details>
- <details>
+ 
   <summary> 3. Istatistik </summary>
   
   * [Orneklem](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#orneklem) (Sampling)
@@ -48,26 +47,32 @@
     * [Ki Kare Analizi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#ki-kare-analizi) (Chi-Square Analysis)
     * [Gerileme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#gerileme) (Regression)
   
-</details>
-  
+ <details>
+    <summary> 4. Lineer Cebir </summary>  
+        * [Matris](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md#matris) (Matrix)
+    * [Determinant](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md#determinant) (Determinant)
+ </details>
 
  
     
- * [4. Lineer Cebir](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md) (Linear Algebra)
-    * [Matris](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md#matris) (Matrix)
-    * [Determinant](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md#determinant) (Determinant)
-##
- * [5. Algoritma ve Programlama](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/algoritma-ve-programlama.md)(Algorithm and Programming)
-##
- * [6. Python](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md) 
-     * [Python Temelleri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md#temel-python) (Python Basics)
+  <details>
+    <summary> 5. Algoritma ve Programlama </summary>  
+   
+ </details>
+
+ <details>
+    <summary> 6. Python</summary>  
+   * [Python Temelleri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md#temel-python) (Python Basics)
      * [Nesneye Yönelik Programlama](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md#nesneye-yönelik-programlama) (Object Oriented Programming)
      * [Kütüphaneler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md#kütüphaneler) (Libraries)
      * [Dosya İşlemleri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md#dosya-islemleri) (File Operations)
      * [İş Parçacıkları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md#is-parcacıkları) (Threads)
-##
- * [7. Veri Yapıları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md) (Data Structures)
-    * [Diziler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#diziler) (Arrays)
+ </details>
+
+
+ <details>
+    <summary> 7. Veri Yapıları </summary>  
+  * [Diziler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#diziler) (Arrays)
     * [Yığınlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#yıgınlar) (Stacks)
     * [Kuyruklar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#kuyruklar) (Queues)
     * [Çift Uçlu Kuyruklar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#cift-uclu-kuyruklar) (Deques)
@@ -76,6 +81,13 @@
     * [Ağaç Teorisi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#agac-teorisi) (Tree Theory)
     * [Grafik Teorisi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#grafik-teorisi) (Graph Theory)
     * [Rekürsif ve Iteratif Fonksiyonlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#rekürsif-ve-iteratif-fonksiyonlar) (Recursive and Iterative Functions)
+   
+ </details>
+
+     
+
+ 
+    
 
 ##
  * [8. Web Kazıma](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/web-kazima.md) (Web Scraping)    
