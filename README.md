@@ -154,16 +154,16 @@
 <details>
   <summary> 12. Derin Öğrenme </summary>  
   
-   * [Yapay Sinir Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Artifical Neural Networks -ANN)
-    * [Evrişimli Sinir Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Convolutional Neural Networks -CNN)
-    * [Özyinelemeli Sinir Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Recurrent Neural Networks -RNN)
-    * [Otomatik Kodlayıcılar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Autoencoders)
-    * [Kapsül Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Capsule Networks)
-    * [Üretici Çekişmeli Ağlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Generative Adversarial Networks -GAN)    
-    * [Kendini Düzenleyen Haritalar ](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Self Organizing Maps -SOMs)
-    * [Boltzman Makineleri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Boltzmann Machines)
-    * [Derin Artık Ağlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Deep Residual Networks -ResNets)
-    * [Transfer Öğrenimi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Transfer Learning)
+  * [Yapay Sinir Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Artifical Neural Networks -ANN)
+  * [Evrişimli Sinir Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Convolutional Neural Networks -CNN)
+  * [Özyinelemeli Sinir Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Recurrent Neural Networks -RNN)
+  * [Otomatik Kodlayıcılar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Autoencoders)
+  * [Kapsül Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Capsule Networks)
+  * [Üretici Çekişmeli Ağlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Generative Adversarial Networks -GAN)    
+  * [Kendini Düzenleyen Haritalar ](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Self Organizing Maps -SOMs)
+  * [Boltzman Makineleri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Boltzmann Machines)
+  * [Derin Artık Ağlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Deep Residual Networks -ResNets)
+  * [Transfer Öğrenimi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Transfer Learning)
 
 </details>
 
