@@ -16,7 +16,7 @@
 </details>
 
 <details>
-  <summary> [2. Olasılık] </summary>
+  <summary> 2. Olasılık </summary>
   
   * [Permutasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#permutasyon) (Permutation)
   * [Kombinasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#kombinasyon) (Combination)   
@@ -28,11 +28,10 @@
   * [Binom Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#binom-dagılımı) (Binomial Distribution)
   * [Poisson Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#poisson-dagılımı) (Poisson Distribution)
 </details>
- 
-
-##
- * [3. Istatistik](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md) (Statistics)
-    * [Orneklem](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#orneklem) (Sampling)
+ <details>
+  <summary> 3. Istatistik </summary>
+  
+  * [Orneklem](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#orneklem) (Sampling)
     * [Merkezi Egilim Olculeri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#merkezi-egilim-olculeri) (Measures of Central Tendency)
         * [Medyan](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#merkezi-egilim-olduleri) (Median)
         * [Mod](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#merkezi-egilim-olduleri) (Mod)
@@ -48,6 +47,12 @@
     * [Buyuk Sayılar Kanunu](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#buyuk-sayılar-kanunu) (Law of Large Numbers )   
     * [Ki Kare Analizi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#ki-kare-analizi) (Chi-Square Analysis)
     * [Gerileme](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#gerileme) (Regression)
+  
+</details>
+  
+
+ 
+    
  * [4. Lineer Cebir](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md) (Linear Algebra)
     * [Matris](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md#matris) (Matrix)
     * [Determinant](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md#determinant) (Determinant)
