@@ -27,7 +27,7 @@
   * [Binom Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#binom-dagılımı) (Binomial Distribution)
   * [Poisson Dagılımı](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#poisson-dagılımı) (Poisson Distribution)
 </details>
- 
+ <details>
   <summary> 3. Istatistik </summary>
   
   * [Orneklem](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#orneklem) (Sampling)
