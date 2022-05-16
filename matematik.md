@@ -27,6 +27,16 @@
 ### Ayrık Matematik
 (Discrete Mathematics)
 ##
+### Limit
+(Limit)
+##
+### Turev
+(Derivative)
+##
+### Integral
+(Integral)
+##
+
 
 
 
