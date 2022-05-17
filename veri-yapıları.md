@@ -1,4 +1,4 @@
-# Veri Yapıları
+# Veri Yapıları (Data Structures)
 
 ### Diziler
 (Arrays)
