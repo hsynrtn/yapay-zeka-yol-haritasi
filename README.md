@@ -14,7 +14,7 @@
  * [Turev](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#turev) (Turev)
  * [Integral](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#integral) (Integral)
 </details>
-##
+<br/>
 <details>
   <summary> 2. Olasılık  (Probability) </summary>  
   
