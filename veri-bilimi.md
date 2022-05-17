@@ -1,4 +1,4 @@
-# Veri Bilimi
+# Veri Bilimi (Data Science)
 
 ### Numpy
 ##
