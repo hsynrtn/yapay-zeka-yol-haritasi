@@ -66,7 +66,7 @@
 </details>
 
 <details>
-  <summary> 6. Python</summary>  
+  <summary> 6. Python (Python)</summary>  
   
   * [Python Temelleri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md#temel-python) (Python Basics)
   * [Nesneye Yönelik Programlama](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/python.md#nesneye-yönelik-programlama) (Object Oriented Programming)
