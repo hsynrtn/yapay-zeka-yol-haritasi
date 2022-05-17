@@ -3,7 +3,7 @@
 ```diff
 <details>  
   <summary> - 1.Matematik (Mathematics)</summary>
-  
+
  * [Basit Esitsizlikler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#basit-esitsizlikler) (Simple Inequalities )
  * [Mutlak Değer](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#mutlak-deger) (Absolute Value)
  * [Fonksiyonlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#fonksiyonlar) (Functions)
@@ -15,7 +15,7 @@
  * [Turev](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#turev) (Turev)
  * [Integral](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#integral) (Integral)
 </details>
-
+```
 <details>
   <summary> 2. Olasılık  (Probability) </summary>  
   
