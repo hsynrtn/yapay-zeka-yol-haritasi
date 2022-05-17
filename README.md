@@ -1,5 +1,5 @@
 # Yapay Zeka Yol Haritası (Artifical Intelligence Roadmap)
-## Adımlar
+## Adımlar (Steps)
 
 <details>  
   <summary>1.Matematik (Mathematics)</summary>
