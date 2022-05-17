@@ -2,7 +2,7 @@
 ## Adımlar (Steps)
 
 <details>  
-  <summary>1.Matematik (Mathematics)</summary>
+  <summary>1. Matematik (Mathematics)</summary>
 
  * [Basit Esitsizlikler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#basit-esitsizlikler) (Simple Inequalities )
  * [Mutlak Değer](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#mutlak-deger) (Absolute Value)
@@ -260,7 +260,7 @@
 </details>
 
 <details>
-  <summary> 18. Diger (Other) </summary> 
+  <summary> 19. Diger (Other) </summary> 
   
   * [Git](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/diger.md) (Git) 
   * [SQL](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/diger.md) (SQL) 
