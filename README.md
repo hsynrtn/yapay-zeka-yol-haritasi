@@ -1,7 +1,7 @@
 # Yapay Zeka Yol Haritası (Artifical Intelligence Roadmap)
 ## Adımlar
 <details>  
-  <summary> ***1.Matematik*** (Mathematics)</summary>
+  <summary> [1.Matematik (Mathematics)]</summary>
   
  * [Basit Esitsizlikler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#basit-esitsizlikler) (Simple Inequalities )
  * [Mutlak Değer](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#mutlak-deger) (Absolute Value)
@@ -14,7 +14,7 @@
  * [Turev](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#turev) (Turev)
  * [Integral](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#integral) (Integral)
 </details>
-<br/>
+
 <details>
   <summary> 2. Olasılık  (Probability) </summary>  
   
