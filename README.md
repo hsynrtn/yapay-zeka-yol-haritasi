@@ -238,7 +238,7 @@
 </details>
 
 <details>
-  <summary> 17. [Büyük Veri (Big Data)](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/buyuk-veri.md) </summary>  
+ 
   
   * [Hadoop](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/buyuk-veri.md) (Hadoop)
   * [Apache Pig](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/buyuk-veri.md) (Apache Pig)
