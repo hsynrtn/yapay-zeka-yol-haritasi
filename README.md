@@ -1,6 +1,12 @@
 # Yapay Zeka Yol Haritası (Artifical Intelligence Roadmap)
 ## Adımlar
 ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 <details>  
   <summary> - 1.Matematik (Mathematics)</summary>
 
@@ -15,7 +21,7 @@
  * [Turev](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#turev) (Turev)
  * [Integral](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#integral) (Integral)
 </details>
-```
+
 <details>
   <summary> 2. Olasılık  (Probability) </summary>  
   
