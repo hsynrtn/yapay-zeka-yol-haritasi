@@ -1,7 +1,7 @@
 # Yapay Zeka Yol Haritası (Artifical Intelligence Roadmap)
 ## Adımlar
 <details>  
-  <summary> 1.Matematik</summary>
+  <summary> 1.Matematik (Mathematics) </summary>
   
  * [Basit Esitsizlikler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#basit-esitsizlikler) (Simple Inequalities )
  * [Mutlak Değer](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/matematik.md#mutlak-deger) (Absolute Value)
@@ -16,7 +16,7 @@
 </details>
 
 <details>
-  <summary> 2. Olasılık </summary>  
+  <summary> 2. Olasılık  (Probability) </summary>  
   
   * [Permutasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#permutasyon) (Permutation)
   * [Kombinasyon](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/olasılık.md#kombinasyon) (Combination)   
@@ -30,7 +30,7 @@
 </details>
 
 <details>
-<summary> 3. Istatistik </summary>
+<summary> 3. Istatistik (Statistics) </summary>
 
   * [Orneklem](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#orneklem) (Sampling)
   * [Merkezi Egilim Olculeri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/istatistik.md#merkezi-egilim-olculeri) (Measures of Central Tendency)
@@ -51,7 +51,7 @@
 </details>
 
 <details>
-  <summary> 4. Lineer Cebir </summary>  
+  <summary> 4. Lineer Cebir  (Linear Algebra) </summary>  
   
   * [Matris](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md#matris) (Matrix)
   * [Determinant](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/lineer-cebir.md#determinant) (Determinant)
@@ -60,7 +60,7 @@
  
     
 <details>
-  <summary> 5. Algoritma ve Programlama </summary>  
+  <summary> 5. Algoritma ve Programlama (Algorithm and Programming) </summary>  
   
 </details>
 
@@ -76,7 +76,7 @@
 
 
 <details>
-  <summary> 7. Veri Yapıları </summary>
+  <summary> 7. Veri Yapıları (Data Structures) </summary>
   
   * [Diziler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#diziler) (Arrays)
   * [Yığınlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#yıgınlar) (Stacks)
@@ -92,7 +92,7 @@
 
      
 <details>
-  <summary> 8. Web Kazıma </summary> 
+  <summary> 8. Web Kazıma  (Web Scraping) </summary> 
   
   * [Selenyum](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/web-kazima.md) (Selenium)
   * [İstekler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/web-kazima.md) (Requests)
@@ -101,7 +101,7 @@
 </details>
  
 <details>
-  <summary> 9. Veri Bilimi </summary>  
+  <summary> 9. Veri Bilimi (Data Science) </summary>  
   
   * [Numpy](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md) (Numpy)
   * [Pandas](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md) (Pandas)
@@ -111,7 +111,7 @@
 
 
 <details>
-  <summary> 10. Veri Görselleştirme </summary> 
+  <summary> 10. Veri Görselleştirme (Data Visualization) </summary> 
   
    * [Matplotlib](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-gorsellestirme.md) (Matplotlib)
    * [Seaborn](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-gorsellestirme.md) (Seaborn)
@@ -120,7 +120,7 @@
 </details>
  
 <details>
-  <summary> 11. Makine Öğrenmesi </summary> 
+  <summary> 11. Makine Öğrenmesi (Machine Learning) </summary> 
 
   * 11-1 Supervised Learning     
 
@@ -149,7 +149,7 @@
 
 </details>
 <details>
-  <summary> 12. Derin Öğrenme </summary>  
+  <summary> 12. Derin Öğrenme  (Deep Learning) </summary>  
   
   * [Yapay Sinir Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Artifical Neural Networks -ANN)
   * [Evrişimli Sinir Ağları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/derin-ogrenme.md) (Convolutional Neural Networks -CNN)
@@ -165,7 +165,7 @@
 </details>
 
 <details>
-  <summary> 13. Görüntü İşleme </summary> 
+  <summary> 13. Görüntü İşleme (Image Processing) </summary> 
 
   * [OpenCV](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (OpenCV)
   * [Temel Resim İşlemleri](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/goruntu-isleme.md) (Basic Image Operations)
@@ -182,7 +182,7 @@
     
 
 <details>
-  <summary> 14. Bilgisayarlı Görü </summary>
+  <summary> 14. Bilgisayarlı Görü (Computer Vision) </summary>
   
   * [Cuda-CuDNN](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (Cuda-CuDNN)
   * [Keras](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/bilgisayarlı-görü.md) (Keras)
@@ -213,7 +213,7 @@
 </details>
 
 <details>
-<summary> 15. Doğal Dil İşleme </summary>  
+<summary> 15. Doğal Dil İşleme (Natural Language Processing -NLP) </summary>  
   
   * [NLTK](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/dogal-dil-isleme.md) (NLTK)
   * [word2vec](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/dogal-dil-isleme.md) (word2vec)
@@ -226,7 +226,7 @@
 
 
 <details>
-  <summary> 16. Pekiştirmeli Öğrenme </summary>
+  <summary> 16. Pekiştirmeli Öğrenme (Reinforcement Learning)</summary>
   
    * [Q-Learning](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/pekistirmeli-ogrenme.md) (Q-Learning) 
    * [Deep Q-Learning](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/pekistirmeli-ogrenme.md) (Deep Q-Learning -DQL)  
@@ -236,7 +236,7 @@
 </details>
 
 <details>
-  <summary> 17. Büyük Veri </summary>  
+  <summary> 17. Büyük Veri (Big Data) </summary>  
   
   * [Hadoop](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/buyuk-veri.md) (Hadoop)
   * [Apache Pig](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/buyuk-veri.md) (Apache Pig)
@@ -249,7 +249,7 @@
 
         
  <details>
-  <summary> 18. Dağıtım  </summary> 
+  <summary> 18. Dağıtım  (Deployment) </summary> 
   
   * [Flask](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/dagıtım.md) (Flask)
   * [FastApi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/dagıtım.md) (FastApi)
@@ -258,7 +258,7 @@
 </details>
 
 <details>
-  <summary> 18. Diger </summary> 
+  <summary> 18. Diger (Other) </summary> 
   
   * [Git](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/diger.md) (Git) 
   * [SQL](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/diger.md) (SQL) 
