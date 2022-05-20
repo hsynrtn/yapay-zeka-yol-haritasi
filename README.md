@@ -82,7 +82,7 @@
   * [Diziler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#diziler) (Arrays)
   * [Yığınlar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#yıgınlar) (Stacks)
   * [Kuyruklar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#kuyruklar) (Queues)
-  * [Çift Uçlu Kuyruklar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#cift-uclu-kuyruklar) (Deques)
+  * [Cift Uclu Kuyruklar](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#cift-uclu-kuyruklar) (Deques)
   * [Arama Algoritmaları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#arama-algoritmaları) (Searching Algorithms)
   * [Sıralama Algoritmaları](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#sıralama-algoritmaları) (Sorting Algorithms)
   * [Ağaç Teorisi](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-yapıları.md#agac-teorisi) (Tree Theory)
@@ -95,18 +95,18 @@
 <details>
   <summary> 8. Web Kazıma  (Web Scraping) </summary> 
   
-  * [Selenyum](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/web-kazima.md) (Selenium)
-  * [Istekler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/web-kazima.md) (Requests)
-  * [Sıyrık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/web-kazima.md) (Scrapy)
+  * [Selenyum](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/web-kazima.md#selenyum) (Selenium)
+  * [Istekler](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/web-kazima.md#istekler) (Requests)
+  * [Sıyrık](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/web-kazima.md#sıyrık) (Scrapy)
 
 </details>
  
 <details>
   <summary> 9. Veri Bilimi (Data Science) </summary>  
   
-  * [Numpy](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md) (Numpy)
-  * [Pandas](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md) (Pandas)
-  * [Kaggle](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md) (Kaggle) 
+  * [Numpy](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md#numpy) (Numpy)
+  * [Pandas](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md#pandas) (Pandas)
+  * [Kaggle](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/veri-bilimi.md#kaggle) (Kaggle) 
 
 </details>
 
