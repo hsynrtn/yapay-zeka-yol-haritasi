@@ -240,6 +240,7 @@
 
 <details>
   <summary> 17. Büyük Veri (Big Data) </summary> 
+  
   * [Hadoop](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/buyuk-veri.md) (Hadoop)
   * [Apache Pig](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/buyuk-veri.md) (Apache Pig)
   * [Apache Hive](https://github.com/hsynrtn/yapay-zeka-yol-haritasi/blob/main/buyuk-veri.md) (Apache Hive)
